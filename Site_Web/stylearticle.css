@@ -1,20 +1,23 @@
 h4 {
     text-align: center;
+    font-family: monospace;
 }
 
 p{
-    text-align: justify;
+    font-family: monospace;
+    font-size: large;
 }
 
 header{
-    text-align: center
+    text-align: center ;
+    font-family: monospace;
 }
 
-.lieu{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-footer{
+.ok{
     font-style: italic;
-    font-size: small;
+    font-size: 1px;
+}
+
+html{
+    font-family: monospace;
 }
