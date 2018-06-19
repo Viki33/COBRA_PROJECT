@@ -21,3 +21,28 @@ header{
 html{
     font-family: monospace;
 }
+
+#logo {
+    width: 100%;
+    min-height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:
+      radial-gradient(rgba(250, 134, 26, 0.15),
+      rgba(250, 134, 26, 0.15)),
+      url("images/kitchen-banner.jpg");
+      font-family: monospace;
+      font-size: 72px;
+      font-weight: normal;
+      padding-top: 24px;
+      color: #FF8000;
+  }
+
+  #logo img {
+    height: 100px;
+    width: auto;
+    margin-top: 24px;
+  

@@ -78,19 +78,18 @@ table {
     radial-gradient(rgba(250, 134, 26, 0.15),
     rgba(250, 134, 26, 0.15)),
     url("../images/kitchen-banner.jpg");
+  font-size: 72px;
+  font-weight: normal;
+  padding-top: 24px;
+  color: #FF8000;
+  font-family: monospace;
 }
 #logo img {
   height: 100px;
   width: auto;
   margin-top: 24px;
 }
-#logo h1 {
-  font-family: 'Quirlycues';
-  font-size: 72px;
-  font-weight: normal;
-  padding-top: 24px;
-  color: #f9f9f9;
-}
+
 
 /*
 ** Recipes Categories
